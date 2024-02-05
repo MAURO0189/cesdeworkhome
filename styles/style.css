@@ -1,0 +1,36 @@
+h5{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    margin-top: 20px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.fondo{
+    background-image: url("../img/banner4.webp");
+    padding: 25%;
+    background-attachment: fixed;
+}
+
+.font{
+    color:aliceblue;
+    font-size: medium;
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+}
+
+.fondoReserva{
+    background-image: url("../img/bannerfomulario.jpg");
+    padding: 25px;
+    background-attachment: fixed;
+}
+
+.title{
+    text-align: center;
+}
+
